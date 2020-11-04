@@ -1,1 +1,0 @@
-# SALOME_script
